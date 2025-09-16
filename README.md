@@ -80,9 +80,9 @@ Thoroughly tests parsing and summarization logic.
 1,3,6,7,8,12,13,14,15,21,22,23,24,31
 
 **Output:**
-Original input: 1,3,6,7,8,12,13,14,15,21,22,23,24,31
-Parsed numbers: [1, 3, 6, 7, 8, 12, 13, 14, 15, 21, 22, 23, 24, 31]
-Range summary: 1, 3, 6-8, 12-15, 21-24, 31
+-Original input: 1,3,6,7,8,12,13,14,15,21,22,23,24,31
+-Parsed numbers: [1, 3, 6, 7, 8, 12, 13, 14, 15, 21, 22, 23, 24, 31]
+-Range summary: 1, 3, 6-8, 12-15, 21-24, 31
 
 ---
 
