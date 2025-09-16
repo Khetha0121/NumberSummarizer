@@ -13,7 +13,7 @@ The Number Summarizer is a simple Java program that takes a comma-separated stri
 ## Assumptions
 - Input may contain whitespace between numbers (valid).
 - Empty or blank input returns an empty unmodifiable list.
-- Invalid numeric values throw an `IllegalArgumentException`.
+- Invalid numeric or alpha numeric values throw an `IllegalArgumentException`.
 - Duplicates are automatically removed.
 - Input is sorted in ascending order.
 - Supports negative numbers and zero.
